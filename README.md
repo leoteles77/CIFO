@@ -11,4 +11,4 @@ The fitness_functions.py is where our fitness functions are defined.
 
 The plot_data.py is used to plot the data.
 
-The experiments.py is where our experiments are done.
+The experiments.py is where our experiments are specified.
